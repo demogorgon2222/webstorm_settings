@@ -5,7 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.ts" />
+    <option name="FILE_MASK" value="*.html" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -20,9 +20,9 @@
     <mask>*.effects.ts</mask>
     <mask>*.selectors.ts</mask>
     <mask>*.component.ts</mask>
-    <mask>*.html</mask>
     <mask>*.scss</mask>
     <mask>*.service.ts</mask>
     <mask>*.ts</mask>
+    <mask>*.html</mask>
   </component>
 </application>
